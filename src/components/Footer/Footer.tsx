@@ -65,7 +65,7 @@ function Footer() {
 
                         <Box sx={styles}>
                             <Typography variant='h3' fontSize='1em'>
-                                Hi, my name is Vito Medlej and I have created the OnBeirut Agency which aims to solve various issues small lebanese
+                                Hi, my name is Fardin Samir and I have created the OnBeirut Agency which aims to solve various issues small lebanese
                                 businesses face. You are free to use the website as a template for yourself as long as you
                                 give credit.
                             </Typography>
@@ -93,9 +93,9 @@ function Footer() {
                         <Typography variant='h1' fontSize='1.4em' fontWeight='400'>Contact</Typography>
                         <Box className='link' sx={styles}>
                             <a target='_blank' rel="noreferrer" href='https://github.com/VitoMedlej'>Github</a>
-                            <Typography variant='h1' fontSize='1em'>vito.medlej@gmail.com</Typography>
-                            <Typography variant='h1' fontSize='1em'>Lebanon/Beirut</Typography>
-                            <Typography variant='h1' fontSize='1em'>+961/81826445</Typography>
+                            <Typography variant='h1' fontSize='1em'>fardin8samir@gmail.com</Typography>
+                            <Typography variant='h1' fontSize='1em'>Mumbai/India</Typography>
+                            <Typography variant='h1' fontSize='1em'>+91/8412875662</Typography>
                         </Box>
                     </Grid>
                 </Grid>

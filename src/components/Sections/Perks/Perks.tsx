@@ -21,17 +21,17 @@ gsap.registerPlugin(ScrollTrigger);
 
 
 const perksArray = [{
-    title:'Continuous support',
+    title:'Community Manager',
     Icon:HandymanIcon,
     text:'I will advance your web-based software to keep it efficient, competitive on the market. Using a well-established DevOps processes, It helps me roll out urgent updates within few hours and release new, planned functional modules every other week.',
 },
 {
-    title : 'Back-end development',
+    title : 'Web Developer',
     text : 'I accurately implement the business logic of your web app on the back end. I always rely on proven frameworks to ensure fast and quality coding. And I build well structured APIs to integrate your web app with corporate or third-party systems and services',
     Icon :  HttpIcon,
 }   ,
 {
-    title : 'Frontend design/dev',
+    title : 'Marketing',
     Icon : DevicesIcon,
     text : 'As a web expert I tend to closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, I push to bring it to life with smart front-end technologies.'
 }

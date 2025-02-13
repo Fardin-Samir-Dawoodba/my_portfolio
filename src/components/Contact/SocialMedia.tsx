@@ -4,20 +4,20 @@ import SocialMediaIcon from './SocialMediaIcon';
 export const SocialMediaArray = [
     {
         title: 'LinkedIn',
-        href: 'https://www.linkedin.com/in/vito-medlej-743b1b241/',
+        href: 'https://www.linkedin.com/in/fardin-samir-d-97b44b23a/?originalSubdomain=in',
         color: '#0e76a8',
         svg: 'https://www.svgrepo.com/show/138936/linkedin.svg'
 
     }, {
         color: '#171515',
         title: 'Github',
-        href: 'https://github.com/VitoMedlej',
+        href: 'https://github.com/Fardin-Samir-Dawoodba',
         svg: 'https://www.svgrepo.com/show/343674/github.svg'
     }, {
-        title: 'Facebook',
-        href: "https://www.facebook.com/vito.medlej.5/",
+        title: 'Twitter',
+        href: "https://www.x.com/etrnlnite",
         color: '#4267B2',
-        svg: 'https://www.svgrepo.com/show/158427/facebook.svg'
+        svg: 'https://res.cloudinary.com/diql6lwwj/image/upload/v1739418373/twitter-x-logo-png_seeklogo-492396_ce0mqz.png'
     }
 ]
 

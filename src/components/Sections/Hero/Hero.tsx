@@ -72,7 +72,7 @@ const Hero = () => {
                             maxWidth: '570px',
                             fontWeight: '300'
                         }}>
-                           Hey there! Call me Vito Medlej. I enjoy creating kickass websites and web/mobile apps, ones that suit your desires and needs using latest technologies and cleanest design patterns. 
+                           Hey there! Call me Fardin Samir. I enjoy creating kickass websites and web/mobile apps, ones that suit your desires and needs using latest technologies and cleanest design patterns. 
                         </Typography>
 
                         <Box
@@ -178,7 +178,7 @@ const Hero = () => {
                                 zIndex: '2'
                             }}
                                 className='img1'
-                                src={`https://ucarecdn.com/150b60a1-4ef3-4ec8-8f1a-d90a7ea26c85/-/crop/1129x1256/0,194/-/preview/3000x3000/`}
+                                src={`https://res.cloudinary.com/diql6lwwj/image/upload/v1739417403/download_xofi0q.jpg`}
                                 alt="Personal Image"/>
                             <Box
                                 className='gradientBg'

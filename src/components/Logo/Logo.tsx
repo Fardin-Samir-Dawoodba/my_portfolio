@@ -29,9 +29,9 @@ const Logo = ({toggleDrawer, colorMode, color} : any) => {
                 className={`${colorMode.mode === 'dark'
                 ? 'logoImg '
                 : ''}small`}
-                src="https://res.cloudinary.com/dwcu3wcol/image/upload/v1658929513/log-removebg-preview_fygpsd.png"
+                src="https://res.cloudinary.com/diql6lwwj/image/upload/v1739423773/Untitled_design_gv4emk.png"
                 alt=""/>
-            <CustomLink color={color} fontWeight='600' text='Medlej' href='/'/>
+            <CustomLink color={color} fontWeight='600' text='F50' href='/'/>
         </Box>
     )
 }

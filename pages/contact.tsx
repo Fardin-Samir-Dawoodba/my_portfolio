@@ -69,8 +69,8 @@ const Contact = () => {
 
     return (
         <Layout
-            title='Vito Medlej contact page'
-            desc='If you have questions or need help you can contact me at vito.medlej@gmail.com | Or Send a Message through the form.'>
+            title='Fardin Samir contact page'
+            desc='If you have questions or need help you can contact me at fardin8samir@gmail.com | Or Send a Message through the form.'>
 
             <Box sx={{
                 overflowX: 'hidden'
@@ -250,18 +250,18 @@ const Contact = () => {
                         }}>
 
                             <ContactBox 
-                            href='mailto:vito.medlej@gmail.com'
+                            href='mailto:fardin8samir@gmail.com'
                             target='_blank'
-                            t1='Get in touch' t2='Email Address' t3='vito.medlej@gmail.com'/>
+                            t1='Get in touch' t2='Email Address' t3='fardin8samir@gmail.com'/>
                             <ContactBox 
-                            href={`https://www.google.com/maps/place/Lebanon/data=!4m2!3m1!1s0x151f17028422aaad:0xcc7d34096c00f970?sa=X&ved=2ahUKEwiK1JSG9or9AhXfUaQEHdUJC40Q8gF6BAgIEAI`}
+                            href={`https://www.google.com/maps/place/Mumbai,+Maharashtra/@19.0825555,72.8789412,11z/data=!3m1!4b1!4m6!3m5!1s0x3be7c6306644edc1:0x5da4ed8f8d648c69!8m2!3d19.0759837!4d72.8776559!16zL20vMDR2bXA?entry=ttu&g_ep=EgoyMDI1MDIxMC4wIKXMDSoASAFQAw%3D%3D`}
                             target='_blank'
                             t1='Location'
-                             t2='Currently living in' t3='Lebanon/Beirut'/>
+                             t2='Currently living in' t3='Mumbai/India'/>
                             <ContactBox 
                             target='_blank'
-                            href={'https://wa.me/96181826445'}
-                            t1='Contact Directly ' t2='Phone Number' t3='+961/ 81826445'/>
+                            href={'https://wa.me/918412875662'}
+                            t1='Contact Directly' t2='Phone Number' t3='+91/8412875662'/>
                         </Box>
                     </Box>
                     <SocialMedia/>
