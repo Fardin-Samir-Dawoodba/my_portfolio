@@ -143,7 +143,7 @@ const TechTools = ({iconsArray} : any) => {
             
            </>
             : 
-            <Typography sx={{margin:'0 auto',fontSize:'1em', fontWeight:'500', color:'red'}} variant='h1' >There was an error loading the items.</Typography>
+            <Typography sx={{margin:'0 auto',fontSize:'1em', fontWeight:'500', color:'red'}} variant='h1' >Coming Soon !!.</Typography>
             }
 
         </Grid>

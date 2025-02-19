@@ -101,7 +101,7 @@ const Projects = ({projectsArray} : IProjects[] | any) => {
                                     key={project.title}/>
                             })
 
-                            : <Typography variant='h1' fontSize='1em' fontWeight='500' color='red'>There was an error loading the projects.</Typography>
+                            : <Typography variant='h1' fontSize='1em' fontWeight='500' color='red'>Coming Soon !!</Typography>
 }
 
                     </Box>
