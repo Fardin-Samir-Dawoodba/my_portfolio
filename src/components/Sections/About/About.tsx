@@ -94,7 +94,7 @@ const About = () => {
                                 sm: '1em'
                             }
                         }}>
-                      A tech community manager and software developer passionate about building thriving tech ecosystems. I've organized events, moderated forums, and created engaging content to connect and educate developers. Beyond tech, I enjoy gaming and exploring innovative digital experiences. Let's build something amazing together! 🚀
+                      A tech community manager and software developer passionate about building thriving tech ecosystems. I&apos;ve organized events, moderated forums, and created engaging content to connect and educate developers. Beyond tech, I enjoy gaming and exploring innovative digital experiences. Let&apos;s build something amazing together! 🚀
 
                         </Typography>
                     </Box>

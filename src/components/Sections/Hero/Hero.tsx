@@ -19,6 +19,7 @@ const Hero = () => {
     useEffect(() => {
         HeroSectionAnimation(q)
 
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 
     return (
@@ -74,7 +75,7 @@ const Hero = () => {
                         }}>
                            About Me
 
-                           Hey there! I'm Fardin Samir.
+                           Hey there! I&apos;m Fardin Samir.
                            I create sleek, high-performance websites and build tech communities while shaping innovative products. Using the latest technologies and design principles, I craft digital experiences that engage and inspire.
                         </Typography>
 

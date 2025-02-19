@@ -65,7 +65,7 @@ function Footer() {
 
                         <Box sx={styles}>
                             <Typography variant='h3' fontSize='1em'>
-                            Hey there! I'm Fardin Samir. I create sleek, high-performance websites and build tech communities while shaping innovative products. Using the latest technologies and design principles, I craft digital experiences that engage and inspire.
+                            Hey there! I&apos;m Fardin Samir. I create sleek, high-performance websites and build tech communities while shaping innovative products. Using the latest technologies and design principles, I craft digital experiences that engage and inspire.
                             </Typography>
                         </Box>
 
