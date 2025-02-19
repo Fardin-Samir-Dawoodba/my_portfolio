@@ -20,7 +20,7 @@ const Layout = ({navbarSx, title ,children ,desc } : ILayout) => {
     <Head >
         <title>{title || "Fardin Samir Personal Portfolio | Indian Community Manager && Web Developer"}</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="shortcut icon" href="https://res.cloudinary.com/dwcu3wcol/image/upload/v1657099811/log_nkmcys.jpg" />
+        <link rel="shortcut icon" href="https://res.cloudinary.com/diql6lwwj/image/upload/v1739925129/favicon-32x32_mqlmhb.png" />
   
    
     

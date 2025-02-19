@@ -156,7 +156,7 @@ const Contact = () => {
                             maxWidth: '570px',
                             fontWeight: '300'
                         }}>
-                            If you need help or have some questions, I&apos;ll be there ready and happy to
+                            If you want to collaborate or have some questions, I&apos;ll be there ready and happy to
                             help.
                         </Typography>
                     </Box>

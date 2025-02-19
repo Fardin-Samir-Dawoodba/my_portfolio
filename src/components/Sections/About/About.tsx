@@ -61,7 +61,7 @@ const About = () => {
                             alt='Personal Image'
                             className='img1 '
                             layout='fill'
-                            src={`https://res.cloudinary.com/diql6lwwj/image/upload/v1739417403/download_xofi0q.jpg`}/>
+                            src={`https://res.cloudinary.com/diql6lwwj/image/upload/v1739913970/IMG-20241026-WA0019_bmwbh3.jpg`}/>
                     </Box>
                 </Grid>
                 <Grid item xs={12} sm={12} md={7.5} lg={7}>
@@ -94,7 +94,7 @@ const About = () => {
                                 sm: '1em'
                             }
                         }}>
-                      A 20-year-old Lebanon-based software developer. I first started developing games using Unity3D, but soon realized I preferred web and mobile app development, and I&apos;ve been building and working on that for the past 3 years now.
+                      A tech community manager and software developer passionate about building thriving tech ecosystems. I've organized events, moderated forums, and created engaging content to connect and educate developers. Beyond tech, I enjoy gaming and exploring innovative digital experiences. Let's build something amazing together! 🚀
 
                         </Typography>
                     </Box>
@@ -108,11 +108,11 @@ const About = () => {
                             },
                             pb:'.5em'
                         }}>
-                      Being self-taught made me appreciate education; thus, I&apos;m studying Management Information Systems simultaneously. Business and technology are both my passions.
+                      I have a strong foundation in software development, with a focus on web technologies and product design. My education has equipped me with problem-solving skills and a passion for tech innovation.
 
                         </Typography>
                     <ReadMore>
-                    Aside from working hard, I tend to enjoy simple things like reading, petting cats, hitting the gym, and other things we humans do. If any of what I said seems interesting, then please do not hesitate to send me a message.
+                    I’m passionate about gaming, especially competitive play. I’ve participated in Fortnite tournaments and secured wins. I also enjoy esports, open-source projects, event management, cooking, art, travel, and photography. 🚀
                     </ReadMore>
                 </Grid>
             </Grid>

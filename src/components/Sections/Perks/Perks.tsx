@@ -23,17 +23,17 @@ gsap.registerPlugin(ScrollTrigger);
 const perksArray = [{
     title:'Community Manager',
     Icon:HandymanIcon,
-    text:'I will advance your web-based software to keep it efficient, competitive on the market. Using a well-established DevOps processes, It helps me roll out urgent updates within few hours and release new, planned functional modules every other week.',
+    text:'I have managed and nurtured thriving tech communities, organizing 40+ workshops, conferences, and community engagement events. My experience includes moderating discussions, creating engaging content, and fostering developer collaboration. I’ve helped connect tech enthusiasts, supported open-source initiatives, and contributed to building vibrant, knowledge-sharing ecosystems.',
 },
 {
     title : 'Web Developer',
-    text : 'I accurately implement the business logic of your web app on the back end. I always rely on proven frameworks to ensure fast and quality coding. And I build well structured APIs to integrate your web app with corporate or third-party systems and services',
+    text : 'I have built 20+ websites and web apps using modern technologies, focusing on clean design patterns and high performance. From intuitive UI/UX to scalable backend solutions, I create seamless digital experiences. My work spans personal projects, client-based solutions, and open-source contributions, ensuring functionality, accessibility, and innovation in every build.',
     Icon :  HttpIcon,
 }   ,
 {
     title : 'Marketing',
     Icon : DevicesIcon,
-    text : 'As a web expert I tend to closely analyze the user audience to understand their needs and reflect these findings in UI design. Having agreed on the look and feel of a web app with project stakeholders, I push to bring it to life with smart front-end technologies.'
+    text : 'I have led marketing initiatives for 15+ tech events and communities, driving engagement through strategic content, social media campaigns, and brand partnerships. My experience includes crafting compelling narratives, increasing audience reach, and building strong online presence for brands. I focus on data-driven marketing to maximize impact and community growth.'
 }
 ]
 const Perks = () => {

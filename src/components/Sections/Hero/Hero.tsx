@@ -57,7 +57,7 @@ const Hero = () => {
                             fontWeight: '600'
                         }}>
                       
-                        The place where your business expands
+                        The place where the community expands
                         </Typography>
                         <Typography
                             variant='h2'
@@ -72,7 +72,10 @@ const Hero = () => {
                             maxWidth: '570px',
                             fontWeight: '300'
                         }}>
-                           Hey there! Call me Fardin Samir. I enjoy creating kickass websites and web/mobile apps, ones that suit your desires and needs using latest technologies and cleanest design patterns. 
+                           About Me
+
+                           Hey there! I'm Fardin Samir.
+                           I create sleek, high-performance websites and build tech communities while shaping innovative products. Using the latest technologies and design principles, I craft digital experiences that engage and inspire.
                         </Typography>
 
                         <Box
@@ -178,7 +181,7 @@ const Hero = () => {
                                 zIndex: '2'
                             }}
                                 className='img1'
-                                src={`https://res.cloudinary.com/diql6lwwj/image/upload/v1739417403/download_xofi0q.jpg`}
+                                src={`https://res.cloudinary.com/diql6lwwj/image/upload/v1739924049/IMG-20250219-WA0000_rrlaez.jpg`}
                                 alt="Personal Image"/>
                             <Box
                                 className='gradientBg'

@@ -17,8 +17,8 @@ function Copyright() {
 
             <Typography variant='h1' fontSize='1em'>
                 {'Copyright © '}
-                <Link color="inherit" target='_blank'  rel="noreferrer" href="https://onbeirut.onrender.com">
-                    onbeirut.onrender.com
+                <Link color="inherit" target='_blank'  rel="noreferrer" href="https://inklookmerchandise.com">
+                    InkLook_Merchandise
                 </Link>{' '} {new Date().getFullYear()}
                 {'.'}
             </Typography>
@@ -65,9 +65,7 @@ function Footer() {
 
                         <Box sx={styles}>
                             <Typography variant='h3' fontSize='1em'>
-                                Hi, my name is Fardin Samir and I have created the OnBeirut Agency which aims to solve various issues small lebanese
-                                businesses face. You are free to use the website as a template for yourself as long as you
-                                give credit.
+                            Hey there! I'm Fardin Samir. I create sleek, high-performance websites and build tech communities while shaping innovative products. Using the latest technologies and design principles, I craft digital experiences that engage and inspire.
                             </Typography>
                         </Box>
 
