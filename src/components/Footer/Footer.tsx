@@ -17,8 +17,8 @@ function Copyright() {
 
             <Typography variant='h1' fontSize='1em'>
                 {'Copyright © '}
-                <Link color="inherit" target='_blank'  rel="noreferrer" href="https://inklookmerchandise.com">
-                    InkLook_Merchandise
+                <Link color="inherit" target='_blank'  rel="noreferrer" href="">
+                    9811
                 </Link>{' '} {new Date().getFullYear()}
                 {'.'}
             </Typography>
@@ -90,7 +90,7 @@ function Footer() {
                     <Grid item xs={12} sm={3} md={3}>
                         <Typography variant='h1' fontSize='1.4em' fontWeight='400'>Contact</Typography>
                         <Box className='link' sx={styles}>
-                            <a target='_blank' rel="noreferrer" href='https://github.com/VitoMedlej'>Github</a>
+                            <a target='_blank' rel="noreferrer" href='https://github.com/Fardin-Samir-Dawoodba'>Github</a>
                             <Typography variant='h1' fontSize='1em'>fardin8samir@gmail.com</Typography>
                             <Typography variant='h1' fontSize='1em'>Mumbai/India</Typography>
                             <Typography variant='h1' fontSize='1em'>+91/8412875662</Typography>
