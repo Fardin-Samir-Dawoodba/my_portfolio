@@ -182,7 +182,7 @@ const Hero = () => {
                                 zIndex: '2'
                             }}
                                 className='img1'
-                                src={`https://res.cloudinary.com/diql6lwwj/image/upload/v1739924049/IMG-20250219-WA0000_rrlaez.jpg`}
+                                src={`https://res.cloudinary.com/diql6lwwj/image/upload/v1759939278/qyF4FDUn_400x400_romngn.jpg`}
                                 alt="Personal Image"/>
                             <Box
                                 className='gradientBg'
