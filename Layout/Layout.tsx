@@ -30,13 +30,13 @@ const Layout = ({navbarSx, title ,children ,desc } : ILayout) => {
 <meta property="og:title" content="Fardin Samir Personal Portfolio | Indian Community Manager && Web Developer" />
 
 
-<meta property="og:url" content="https://elvito.netlify.app" />
+<meta property="og:url" content="https://fardin-samir.vercel.app" />
 
 
 <meta property="og:description" content="Fardin Samir | Web Developer based in Lebanon. And this is my Portfolio and my blog "/>
 
 
-<meta property="og:image" content="https://res.cloudinary.com/dwcu3wcol/image/upload/v1658929513/log-removebg-preview_fygpsd.png"/>
+<meta property="og:image" content="https://res.cloudinary.com/diql6lwwj/image/upload/v1739925129/favicon-32x32_mqlmhb.png"/>
 
 {/* <!-- Og Type -->
 <meta property="og:type" content="article" /> */}
